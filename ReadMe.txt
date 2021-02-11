@@ -3,7 +3,7 @@ Dean Braun 18002023
 PROG7312 POE
 
 WindowsFormsApp2 - The POE Program
-callNumberWord - A program yo create a word document with multi level lists from the 'finalcallnumber.txt' file located inside WindowsFormsApp2
+callNumberWord - A program to create a word document with multi level lists from the 'finalcallnumber.txt' file located inside WindowsFormsApp2
 MultiLevelList.docx - a word file containing multi-level lists of all the call numbers
 
 1. Extract the file named "PROG7312_POE_18002023"
